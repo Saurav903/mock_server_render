@@ -28,8 +28,151 @@
                 "roll":909
             }
     ],
-    "transactions": [
-
+    "addData": [
+            {
+                "id":1,
+                "name":"Lenovo - Ideapad 3i",
+                "category":"Laptops",
+                "description":"Lenovo - Ideapad 3i 15.6 HD Touch Laptop - Core i3-1115G4 - 8GB Memory - 256GB SSD - Platinum Grey",
+                "price":299.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6511/6511950_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":2,
+                "name":"HP - ENVY x360 ",
+                "category":"Laptops",
+                "description":"HP - ENVY x360 2-in-1 15.6 Touch-Screen Laptop - Intel Evo Platform Intel Core i5 - 8GB Memory - 256GB SSD - Natural Silver",
+                "price":599.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6502/6502181_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":3,
+                "name":"Lenovo - Chromebook 3",
+                "category":"Laptops",
+                "description":"Lenovo - Chromebook 3 11.6 HD Laptop - Celeron N4020 - 4GB Memory - 64GB eMMC - Onyx Black",
+                "price":109.00,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6500/6500335_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":4,
+                "name":"ASUS - TUF Dash",
+                "category":"Laptops",
+                "description":"ASUS - TUF Dash 15.6 FHD 144Hz Gaming Laptop - Intel Core i7 - 16GB DDR5 Memory - NVIDIA GeForce RTX 3070 - 512GB PCIe SSD - Off Black",
+                "price":1099,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494644_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":5,
+                "name":"MacBook Air",
+                "category":"Laptops",
+                "description":"MacBook Air 13.6 Laptop - Apple M2 chip - 8GB Memory - 256GB SSD (Latest Model) - Midnight",
+                "price":1049,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509650_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":6,
+                "name":"Microsoft - Surface Pro 7",
+                "category":"Laptops",
+                "description":"Microsoft - Surface Pro 7+ - 12.3” Touch Screen  Intel Core i5  8GB Memory  256GB SSD with Black Type Cover (Latest Model) - Platinum",
+                "price":749,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6520/6520385_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":7,
+                "name":"ASUS - 11.6",
+                "category":"Laptops",
+                "description":"ASUS - 11.6 Laptop - Intel Celeron N4020 - 4GB Memory - 64GB eMMC - Star Black",
+                "price":99.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6498/6498805_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":8,
+                "name":"HP - Spectre 2",
+                "category":"Laptops",
+                "description":"HP - Spectre 2-in-1 16 3K+ Touch-Screen Laptop - Intel Evo platform Core i7 - 16GB Memory - 512GB SSD - Pen Included - Nocturne Blue",
+                "price":999.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501274_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":9,
+                "name":"ASUS - 17.3",
+                "category":"Laptops",
+                "description":"ASUS - 17.3 Chromebook - Intel Celeron N4500 - 4GB Memory - 64GB eMMC - Transparent Silver",
+                "price":189,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6504/6504419_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":10,
+                "name":"LG - 70",
+                "category":"TV",
+                "description":"LG - 70 Class NanoCell 75UQA Series LED 4K UHD Smart webOS TV",
+                "price":649.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501916_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":11,
+                "name":"LG - 75",
+                "category":"TV",
+                "description":"LG - 75 Class 83 Series QNED Mini-LED 4K UHD Smart webOS TV",
+                "price":1499.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6517/6517096_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":12,
+                "name":"Samsung - 43",
+                "category":"TV",
+                "description":"Samsung - 43 Class TU690T Series LED 4K UHD Smart Tizen TV",
+                "price":249.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6514/6514057_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":13,
+                "name":"LG - 65",
+                "category":"TV",
+                "description":"LG - 65 Class C2 Series OLED evo 4K UHD Smart webOS TV",
+                "price":1699,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501491_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":14,
+                "name":"TCL - 50",
+                "category":"TV",
+                "description":"TCL - 50 Class 5-Series QLED 4K UHD Smart Google TV",
+                "price":379.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470258_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":15,
+                "name":"VAVA - 4K",
+                "category":"TV",
+                "description":"VAVA - 4K via Upscaling UHD Smart Ultra Short Throw Laser TV Home Theater Projector - White/Gray",
+                "price":1949,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6425/6425337_rd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":16,
+                "name":"Samsung - 65",
+                "category":"TV",
+                "description":"Samsung - 65 Class 7 Series LED 4K UHD Smart Tizen TV",
+                "price":479.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6401/6401722_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":17,
+                "name":"Sony - 85",
+                "category":"TV",
+                "description":"Sony - 85 Class X80K Series LED 4K HDR Smart Google TV",
+                "price":1499.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501505_sd.jpg;maxHeight=200;maxWidth=300"
+            },
+            {
+                "id":18,
+                "name":"Samsung - 55",
+                "category":"TV",
+                "description":"Samsung - 55 Class 7 Series LED 4K UHD Smart Tizen TV",
+                "price":379.99,
+                "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6401/6401735_sd.jpg;maxHeight=200;maxWidth=300"
+            }
     ],
     "payees":[
         
