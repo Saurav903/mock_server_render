@@ -19,14 +19,10 @@
     "accounts": [
             {
                 "id":1,
-                "name":"xyz",
-                "roll":909
-            },
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
+                "email":"xyz",
+                "password":"jhfjh65534"
             }
+            
     ],
     "addData": [
             {
